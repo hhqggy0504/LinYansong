@@ -50,20 +50,20 @@
     
     nn.Sequential(连接起来，将所有层包装)
     cat可以连接起来维度（拼接）
-![DNN](\pic\111.png)
+![DNN](..\pic\111.png)
 
 ## 2.1 深度学习
 
-![DL0](\pic\img_4.png)
+![DL0](..\pic\img_4.png)
 
-![DL1](\pic\img_5.png)
+![DL1](..\pic\img_5.png)
 
 GPU   >>>>   矩阵运算
 
 chain rule  >>>>>  链式法则
-![DL2](\pic\img_6.png)
+![DL2](..\pic\img_6.png)
 
-![DL3](\pic\img_7.png)
+![DL3](..\pic\img_7.png)
 
 backward pass   >>>>      建立一个反向的neural network
 
